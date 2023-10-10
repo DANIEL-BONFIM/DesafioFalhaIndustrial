@@ -9,7 +9,7 @@ O maior objetivo foi explorar 4 diferentes formas de balancear os dados usando:
   - NearMiss
   - RandomOverSampler (passando o parâmetro shrinkage)
 
-Em seguida, aplicar o KNN para cada um dos balanceamentos, e o melhor usar em outros modelos de classificação para compará-los, no caso Gboost e XGboost.
+Em seguida, aplicar o KNN para cada um dos balanceamentos, e o melhor balanceamento usar em outros modelos de classificação para compará-los, no caso Gboost e XGboost.
 Também foi usado otimização de hiperparâmetros em cada um dos modelos.
 
 
