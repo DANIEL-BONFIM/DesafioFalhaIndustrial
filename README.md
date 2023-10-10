@@ -16,4 +16,5 @@ Também foi usado otimização de hiperparâmetros em cada um dos modelos.
 Sugestões de melhoria:
   - Trabalhar melhor as estatísticas.
   - Procurar outro modelo ou ajustar os existentes para substituir o Gboost (que foi o melhor, porém muito demorado).
-  - Trabalhar com mais funções e melhorar perfomance. 
+  - Trabalhar com mais funções e melhorar performance.
+  - Avaliar as outras técnicas de balanceamento com XGBoost e GBoost
